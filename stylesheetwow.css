@@ -1,0 +1,21 @@
+body {
+    background-color: darkslategray;
+}
+
+hr {
+    width: 500px;
+    color:brown;
+}
+
+.name {
+    color: green;
+}
+
+.tagline {
+    color:teal;
+}
+
+.prof {
+    font-size:x-large;
+    color: cyan;
+}
